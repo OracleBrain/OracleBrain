@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Software engineer from Nepal</h3>
 
-<img align="right" alt="coding" width="400" src=![image](https://github.com/OracleBrain/OracleBrain/assets/121432807/703338b4-aeb0-4aff-ae54-f0ba857b034a)
+<img align="right" alt="coding" width="400" src=blob/master/20230107_130532.jpg
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oraclebrain&label=Profile%20views&color=0e75b6&style=flat" alt="oraclebrain" /> </p>
