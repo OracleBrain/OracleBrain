@@ -89,6 +89,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 
+![logo](https://github.com/OracleBrain/OracleBrain/blob/d8d58022a81130df1e4a029c7c78782d28d73eed/20230717_015936.png)
+
 
 
 <hr />
