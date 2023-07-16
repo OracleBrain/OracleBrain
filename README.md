@@ -1,4 +1,4 @@
-![logo](https://github.com/OracleBrain/Aashis-Jha/blob/master/20230107_130532.jpg)
+![logo](https://github.com/OracleBrain/OracleBrain/blob/9ad20160e225e2b1a14b883888554c25a741130d/20230717_010238.png)
 
 <h1 align="center">Hi 👋, I'm Aashis Jha</h1>
 <h3 align="center">A passionate Software engineer from Nepal</h3>
