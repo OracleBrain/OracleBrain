@@ -58,11 +58,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oraclebrain&show_icons=true&locale=en&layout=compact" alt="oraclebrain" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=dracula&layout=compact"width="47%"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" align="left"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=oraclebrain&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oraclebrain&theme=dracula&hide_border=false"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oraclebrain&show_icons=true&locale=en" alt="oraclebrain" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oraclebrain&" alt="oraclebrain" /></p>
+<br/>
 
 ---
 
