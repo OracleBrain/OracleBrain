@@ -5,10 +5,12 @@
   <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=cobalt2&layout=compact"width="47%"/>
-<!-- <img align="right" src="https://user-images.githubusercontent.com/36763164/155938198-731c072d-9864-47ae-b451-9dc55ea72a87.gif" width="35%" align="left"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=oraclebrain&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oraclebrain&theme=cobalt2&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=cobalt2&layout=compact"width="48%"/> 
+</p>  
+
+<p align="center">
+<a href="https://github.com/oraclebrain?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=cobalt2&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="45%" alt="@Oraclebrain's github-readme-stats"/></a>
+<a href="https://github.com/oraclebrain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=cobalt2&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="@AJ's github-readme-streak-stats"/></a>
 </p>
 
 <br/>
