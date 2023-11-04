@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
 <a href="https://codepen.io/OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@oraclebrain" target="_blank"><img alt="" src="https://img.shields.io/badge/Oracle%20Brain-FE8200?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank"><img alt="" src="https://img.shields.io/badge/Oracle%20Brain-FE8200?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
 <a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-EA4335?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
