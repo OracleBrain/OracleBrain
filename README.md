@@ -124,6 +124,20 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+<details>
+  <summary>Skills</summary>
+  
+- Problem Solving
+- 
+- Researching $ Learning
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+🍽️ 🛌 👨🏻‍💻 🔁 
+</details>
+
+
 ---
 ``` java
 // Check if the code is functioning correctly
