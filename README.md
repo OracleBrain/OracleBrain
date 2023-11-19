@@ -139,7 +139,7 @@
 <details>
   <summary>Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 🔁 
-  🌏 Traveling
+</br> 🌏 Traveling
   📚 Learning
   🎮 Video Games
   🎧 Listening to Music
