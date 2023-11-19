@@ -85,7 +85,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000?style=for-the-badge&logo=vercel)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000?style=for-the-badge&logo=vercel&logoColor=84C1DB)
 
 
 <p align="center">
