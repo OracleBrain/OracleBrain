@@ -139,10 +139,10 @@
 <details>
   <summary>Hobbies</summary>
 🍽️ 🛌 👨🏻‍💻 🔁 
-- 🌏 Traveling
-- 📚 Learning
-- 🎮 Video Games
-- 🎧 Listening to Music
+ 🌏 Traveling
+ 📚 Learning
+ 🎮 Video Games
+ 🎧 Listening to Music
 </details>
 
 
