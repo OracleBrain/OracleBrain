@@ -8,9 +8,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
 
+<!---
 <a href="https://github.com/oraclebrain/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
 </a>
+----------->
 
 <p align="center">
 <a href="https://github.com/oraclebrain?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=transparent&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="45%" alt="@Oraclebrain's github-readme-stats"/></a>
