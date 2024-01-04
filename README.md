@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://tenor.com/view/wth-smile-grin-evil-smirk-gif-14605676" alt="Description of the image">
+        <img src="https://tenor.com/view/wth-smile-grin-evil-smirk-gif-14605676">
     </a>
 </p>
 
