@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<div style="text-align: center;">
-  <a href="https://github.com/OracleBrain">
-    <img src="contributions.svg" />
-  </a>
-</div>
 
 
 
@@ -40,6 +35,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a>
 </p>
+
+<div style="text-align: center;">
+  <a href="https://github.com/OracleBrain">
+    <img src="contributions.svg" />
+  </a>
+</div>
+
 
 
 
