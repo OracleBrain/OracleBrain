@@ -1,4 +1,5 @@
-<a href=#><img src="contributions.svg"></a>
+<a href="https://github.com/OracleBrain"><img src="contributions.svg"></a>
+
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
