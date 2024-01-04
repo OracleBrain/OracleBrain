@@ -2,7 +2,7 @@
 
   <p>
     <a href="https://github.com/getintorj/readme-typing-svg" style="text-decoration: none;">
-      <div style="display: inline-block; background: linear-gradient(45deg, #20C20E, #FFD700); padding: 10px; border-radius: 5px;">
+      <div style="display: inline-block; background: linear-gradient(180deg, #20C20E, #FFD700); padding: 10px; border-radius: 5px;">
         <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=transparent&vCenter=true&pause=1000&size=22" />
       </div>
     </a>
