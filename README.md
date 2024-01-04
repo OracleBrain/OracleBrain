@@ -1,8 +1,8 @@
 <p align="center">
     <a href="http://jrohit.com.np" target="_blank">
-        <img alt="https://tenor.com/view/wth-smile-grin-evil-smirk-gif-14605676">
+        <img src="https://tenor.com/view/wth-smile-grin-evil-smirk-gif-14605676" alt="Description of the image">
     </a>
-
+</p>
 
 <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
