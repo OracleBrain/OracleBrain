@@ -197,7 +197,7 @@ while(alive) {
 
 ---
 
-
+<!--
 | Project | Description | Built with |
 | ------- | ----------- | ---------- |
 |[Karaage](https://www.karaage.com/)|Karaage provides detailed instructions on how to prepare karaage, including the ingredients needed, step-by-step instructions, and photos to help readers visualize the process.|Next, Rapid Api, Laravel, Mysql|
@@ -210,4 +210,5 @@ while(alive) {
 |[Twitter Gallery](https://github.com/Dmoon16/gallery-twitter)|A Next.js application that allows you to easily browse and filter media files from Twitter users.|Next.js, Redis, TailwindCSS, Twitter API SDK|
 |[Solana Nft Multi Staking](https://github.com/Dmoon16/nft-multi-staking-solana-react)|Barnyard NFT Staking, Land, Animal, Farmer, Solana, $Wheat token.|React, Web3, Rust|
 |[My Voice](https://github.com/emrecoban/my-voice)|An Android app helps disabled people. The project's aim is to help disabled people to able to communicate more easily with people who do not know sign language.|Java, TextToSpeech|
+</p>  -->
 
