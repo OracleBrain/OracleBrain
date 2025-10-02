@@ -21,9 +21,20 @@
 
 
 
-<p align="center"> 
- 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
+<br/>
+
+<div align="center">
+  <h3 style="color: #00ff00; text-shadow: 0 0 10px #00ff00;">
+     🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃 
+  </h3>
+  <img src="https://komarev.com/ghpvc/?username=oraclebrain&color=00ff00&style=for-the-badge&label=TARGETS+SCANNED" alt="Profile Views"/>
+  <br/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=wifi&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff00?style=for-the-badge&logo=shield&logoColor=black" alt="Access"/>
+  <img src="https://img.shields.io/badge/SECURITY-LEVEL_%205-ff0000?style=for-the-badge&logo=lock&logoColor=white" alt="Security"/>
+</div>
+
+<br/>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact"width="48%"/> 
