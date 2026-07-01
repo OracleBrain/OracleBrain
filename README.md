@@ -1,19 +1,19 @@
 <p align="center">
     <a href="http://aashisjha.com.np" target="_blank">
-        <img src="https://github.com/eraashisjha/eraashisjha/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+        <img src="https://github.com/oraclebrain/oraclebrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
     </a>
 </p>
 
 
 
 <p align="center">
-  <a href="https://github.com/eraashisjha/readme-typing-svg">
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 
-  <a href="https://github.com/eraashisjha">
+  <a href="https://github.com/oraclebrain">
     <img src="contributions.svg" />
   </a>
 
@@ -26,7 +26,7 @@
   <h3 style="color: #00ff00; text-shadow: 0 0 10px #00ff00;">
      🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃 
   </h3>
-  <img src="https://komarev.com/ghpvc/?username=eraashisjha&color=00ff00&style=for-the-badge&label=TARGETS+SCANNED" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=oraclebrain&color=00ff00&style=for-the-badge&label=TARGETS+SCANNED" alt="Profile Views"/>
   <br/>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=wifi&logoColor=black" alt="Status"/>
   <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff00?style=for-the-badge&logo=shield&logoColor=black" alt="Access"/>
@@ -40,22 +40,22 @@
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraashisjha&theme=shadow_blue&layout=compact" width="48%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraclebrain&theme=shadow_blue&layout=compact" width="48%"/> 
 </p>  
 
 
 
 <!---
-<a href="https://github.com/eraashisjha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eraashisjha&repo=github-readme-stats&theme=shadow_green" />
+<a href="https://github.com/oraclebrain/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
 </a>
 ----------->
 <p align="center">
-  <a href="https://github.com/eraashisjha?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=eraashisjha&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@eraashisjha's github-readme-stats">
+  <a href="https://github.com/oraclebrain?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@oraclebrain's github-readme-stats">
   </a>
-  <a href="https://github.com/eraashisjha?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=eraashisjha&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
+  <a href="https://github.com/oraclebrain?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a>
 </p>
 <br/>
